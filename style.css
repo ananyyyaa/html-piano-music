@@ -1,0 +1,87 @@
+.w {
+    background-image: url("./images/key1.png");
+    width: 150px;height: 150px;
+    font-size: 2px;
+    }
+  
+  .a {
+    background-image: url("./images/key3.png");
+    width: 150px;height: 150px;  font-size: 2px;
+  
+  }
+  
+  .s {
+    background-image: url("./images/key1.png");
+    width: 150px;height: 150px;  font-size: 2px;
+  
+  }
+  
+  .d {
+    background-image: url("./images/key1.png");
+    width: 150px;height: 150px;  font-size: 2px;
+  
+  }
+  
+  .j {
+    background-image: url("./images/key3.png");
+    width: 150px;height: 150px;  font-size: 2px;
+  
+  }
+
+  .z {
+    background-image: url("./images/key3.png");
+    width: 150px;height: 150px;  font-size: 2px;
+  
+  }
+  
+  
+  .set {
+    margin: 15% auto;
+    text-align: center;
+  }
+  
+  .pressed {
+    box-shadow: 50px 50px 50px 0 #f8f3f3;
+   
+  }
+  
+  
+  
+  body {
+    
+    background: linear-gradient(to top left, #66ffff 0%, #ff99cc 50%, rgb(246, 197, 106 ) 100%);
+   
+  }
+  
+  h1 {
+   
+    margin-top: 20px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+font-style: italic;
+font-weight: bolder;
+  }
+  button{
+    border-width: 0.3rem;
+ width: 10rem;
+    border-color: rgb(24, 23, 23);
+  
+  }
+  
+  h2 {
+    
+   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  text-align: center;
+    
+  }
+
+  h3 {
+   
+  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  text-align: center;
+    
+  }
